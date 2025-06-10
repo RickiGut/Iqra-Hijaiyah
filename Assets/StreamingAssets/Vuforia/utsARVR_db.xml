@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="ZA" size="100.000000 177.777771" />
+    <ImageTarget name="TSA" size="100.000000 177.777771" />
+    <ImageTarget name="TA" size="100.000000 177.777771" />
+    <ImageTarget name="SIN" size="100.000000 177.777771" />
+    <ImageTarget name="RA" size="100.000000 177.777771" />
+    <ImageTarget name="KHA" size="100.000000 177.777771" />
+    <ImageTarget name="JIM" size="100.000000 177.777771" />
+    <ImageTarget name="HA" size="100.000000 177.777771" />
+    <ImageTarget name="DZAL" size="100.000000 177.777771" />
+    <ImageTarget name="DAL" size="100.000000 177.777771" />
+    <ImageTarget name="BA" size="100.000000 177.777771" />
+    <ImageTarget name="ALIF" size="100.000000 177.777771" />
+  </Tracking>
+</QCARConfig>
